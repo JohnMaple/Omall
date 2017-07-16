@@ -1,0 +1,1 @@
+Base.getScript("/statics/templates/yungouquanqiu/js/BottomFun.js?date=20141118");

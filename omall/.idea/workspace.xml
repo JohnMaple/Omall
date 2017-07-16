@@ -1,0 +1,1489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="65f03a59-4444-464a-876c-578fe67d1474" name="Default" comment="" />
+    <ignored path="outmall.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="outmall" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="activity.action.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/system/modules/mobile/activity.action.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="300" column="5" lean-forward="true" selection-start-line="300" selection-start-column="5" selection-end-line="300" selection-end-column="5" />
+              <folding>
+                <marker date="1490168420910" expanded="true" signature="564:623" ph="select * fro... @##_wap" />
+                <marker date="1490168420910" expanded="true" signature="689:780" ph="select * fro... @##_act_category" />
+                <marker date="1490168420910" expanded="true" signature="920:1035" ph="select * fro... @##_activity" />
+                <marker date="1490168420910" expanded="true" signature="1665:1756" ph="select * fro... @##_act_category" />
+                <marker date="1490168420910" expanded="true" signature="1829:1862" ph="select * fro... @##_activity" />
+                <marker date="1490168420910" expanded="true" signature="1965:2029" ph="select * fro... @##_act_attr" />
+                <marker date="1490168420910" expanded="true" signature="2825:2875" ph="select COUNT... " />
+                <marker date="1490168420910" expanded="true" signature="3019:3072" ph="select * fro... ##_activity" />
+                <marker date="1490168420910" expanded="true" signature="6435:6523" ph="select `act_... @##_act_filter" />
+                <marker date="1490168420910" expanded="true" signature="7125:7175" ph="select COUNT... " />
+                <marker date="1490168420910" expanded="true" signature="7306:7361" ph="select * fro... @##_activity" />
+                <marker date="1490168420910" expanded="true" signature="9536:9627" ph="select * fro... @##_act_order" />
+                <marker date="1490168420910" expanded="true" signature="10029:10078" ph="select `id` @##_map_config" />
+                <marker date="1490168420910" expanded="true" signature="10180:10242" ph="select * fro... @##_map_config" />
+                <marker date="1490168420910" expanded="true" signature="10300:10343" ph="select * fro... @##_activity" />
+                <marker date="1490168420910" expanded="true" signature="10393:10475" ph="select `o_ph... @##_act_order" />
+                <marker date="1490168420910" expanded="true" signature="10534:10608" ph="select * fro... @##_act_notice" />
+                <marker date="1490168420910" expanded="true" signature="10714:10782" ph="select * fro... @##_act_step" />
+                <marker date="1490168420910" expanded="true" signature="11027:11086" ph="select * fro... @##_item_share" />
+                <marker date="1490168420910" expanded="true" signature="11815:11860" ph="select * fro... @##_wechat_config" />
+                <marker date="1490168420910" expanded="true" signature="14067:14171" ph="select COUNT... " />
+                <marker date="1490168420910" expanded="true" signature="14345:14454" ph="select * fro... @##_act_order" />
+                <marker date="1490168420910" expanded="true" signature="14859:14993" ph="select `o_id... @##_act_order" />
+                <marker date="1490168420910" expanded="true" signature="18742:18865" ph="select * fro... @##_act_order" />
+                <marker date="1490168420910" expanded="true" signature="18930:18988" ph="select `name... @##_config" />
+                <marker date="1490168420910" expanded="true" signature="19424:19550" ph="select * fro... @##_act_order" />
+                <marker date="1490168420910" expanded="true" signature="19788:19886" ph="update `@##_a... " />
+                <marker date="1490168420910" expanded="true" signature="19972:20192" ph="insert into `@##_act_refund_log`... " />
+                <marker date="1490168420910" expanded="true" signature="20789:20912" ph="select * fro... @##_act_order" />
+                <marker date="1490168420910" expanded="true" signature="21951:22074" ph="select * fro... @##_act_order" />
+                <marker date="1490168420910" expanded="true" signature="22290:22421" ph="select `o_id... @##_act_order" />
+                <marker date="1490168420910" expanded="true" signature="23389:23487" ph="update `@##_a... " />
+                <marker date="1490168420910" expanded="true" signature="23571:23786" ph="insert into `@##_act_refund_log`... " />
+                <marker date="1490168420910" expanded="true" signature="24210:24265" ph="SELECT * FRO... @##_wxch_cfg" />
+                <marker date="1490168420910" expanded="true" signature="24315:24375" ph="SELECT * FRO... @##_wxch_cfg" />
+                <marker date="1490168420910" expanded="true" signature="26490:26533" ph="select * fro... @##_activity" />
+                <marker date="1490168420910" expanded="true" signature="26613:26668" ph="select `valu... @##_config" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wechat.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/system/wechat/wechat.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1487777721854" expanded="true" signature="1289:1346" ph="SELECT * FRO... @##_wxch_cfg" />
+                <marker date="1487777721854" expanded="true" signature="1470:1527" ph="SELECT * FRO... @##_wxch_cfg" />
+                <marker date="1487777721854" expanded="true" signature="1663:1739" ph="SELECT `b_ui... @##_member_band" />
+                <marker date="1487777721854" expanded="true" signature="1795:2033" ph="..." />
+                <marker date="1487777721854" expanded="true" signature="2057:2331" ph="..." />
+                <marker date="1487777721854" expanded="true" signature="2270:2293" ph="..." />
+                <marker date="1487777721854" expanded="true" signature="2354:2628" ph="..." />
+                <marker date="1487777721854" expanded="true" signature="2567:2590" ph="..." />
+                <marker date="1487777721854" expanded="true" signature="2836:2900" ph="SELECT `cfg_... @##_wxch_cfg" />
+                <marker date="1487777721854" expanded="true" signature="3054:3120" ph="SELECT `cfg_... @##_wxch_cfg" />
+                <marker date="1487777721854" expanded="true" signature="3561:3606" ph="select * fro... @##_wechat_config" />
+                <marker date="1487777721854" expanded="true" signature="4289:4460" ph="INSERT INTO `@##_member`... " />
+                <marker date="1487777721854" expanded="true" signature="4528:4645" ph="INSERT INTO `@##_member_band`... " />
+                <marker date="1487777721854" expanded="true" signature="4918:4975" ph="UPDATE `@##_c... " />
+                <marker date="1487777721854" expanded="true" signature="5026:5125" ph="SELECT * FRO... @##_cjlist" />
+                <marker date="1487777721854" expanded="true" signature="5180:5298" ph="INSERT INTO `@##_cjlist`... " />
+                <marker date="1487777721854" expanded="true" signature="5342:5459" ph="UPDATE `@##_c... " />
+                <marker date="1487777721854" expanded="true" signature="5850:5907" ph="UPDATE `@##_c... " />
+                <marker date="1487777721854" expanded="true" signature="5959:6060" ph="SELECT * fro... @##_cjlist" />
+                <marker date="1487777721854" expanded="true" signature="6117:6237" ph="INSERT INTO `@##_cjlist`... " />
+                <marker date="1487777721854" expanded="true" signature="6283:6402" ph="UPDATE `@##_c... " />
+                <marker date="1487777721854" expanded="true" signature="6506:6554" ph="SELECT `user... @##_member" />
+                <marker date="1487777721854" expanded="true" signature="7125:7184" ph="UPDATE `@##_c... " />
+                <marker date="1487777721854" expanded="true" signature="7234:7335" ph="SELECT * fro... @##_cjlist" />
+                <marker date="1487777721854" expanded="true" signature="7388:7521" ph="INSERT INTO `@##_cjlist`... " />
+                <marker date="1487777721854" expanded="true" signature="7563:7682" ph="UPDATE `@##_c... " />
+                <marker date="1487777721854" expanded="true" signature="7800:7834" ph="SELECT * FRO... @##_weixin_keywords" />
+                <marker date="1487777721854" expanded="true" signature="8233:8297" ph="UPDATE `@##_w... " />
+                <marker date="1487777721854" expanded="true" signature="8525:8765" ph="..." />
+                <marker date="1487777721854" expanded="true" signature="8925:8989" ph="UPDATE `@##_w... " />
+                <marker date="1487777721854" expanded="true" signature="9587:9659" ph="SELECT `auto... @##_weixin_point" />
+                <marker date="1487777721854" expanded="true" signature="9782:9857" ph="SELECT `poin... @##_weixin_point" />
+                <marker date="1487777721854" expanded="true" signature="10363:10434" ph="SELECT * FRO... @##_member_band" />
+                <marker date="1487777721854" expanded="true" signature="10855:10931" ph="SELECT `b_ui... @##_member_band" />
+                <marker date="1487777721854" expanded="true" signature="10987:11033" ph="SELECT * FRO... @##_member" />
+                <marker date="1487777721854" expanded="true" signature="11605:11703" ph="SELECT * FRO... @##_shoplist" />
+                <marker date="1487777721854" expanded="true" signature="11927:12101" ph="..." />
+                <marker date="1487777721854" expanded="true" signature="12417:12514" ph="SELECT * FRO... @##_shoplist" />
+                <marker date="1487777721854" expanded="true" signature="12738:12908" ph="..." />
+                <marker date="1487777721854" expanded="true" signature="13225:13320" ph="SELECT * FRO... @##_shoplist" />
+                <marker date="1487777721854" expanded="true" signature="13544:13714" ph="..." />
+                <marker date="1487777721854" expanded="true" signature="14028:14133" ph="SELECT * FRO... @##_member_go_record" />
+                <marker date="1487777721854" expanded="true" signature="14669:14870" ph="..." />
+                <marker date="1487777721854" expanded="true" signature="15377:15482" ph="SELECT * FRO... @##_member_go_record" />
+                <marker date="1487777721854" expanded="true" signature="15525:15588" ph="SELECT `uid`... @##_member" />
+                <marker date="1487777721854" expanded="true" signature="15645:15724" ph="SELECT * FRO... @##_member_go_record" />
+                <marker date="1487777721854" expanded="true" signature="16827:16919" ph="SELECT * FRO... @##_shoplist" />
+                <marker date="1487777721854" expanded="true" signature="17143:17313" ph="..." />
+                <marker date="1487777721854" expanded="true" signature="17952:18001" ph="SELECT * FRO... @##_shoplist" />
+                <marker date="1487777721854" expanded="true" signature="18371:18430" ph="SELECT * FRO... @##_article" />
+                <marker date="1487777721854" expanded="true" signature="18668:18839" ph="..." />
+                <marker date="1487777721854" expanded="true" signature="19120:19185" ph="SELECT `stat... @##_weixin_sign" />
+                <marker date="1487777721854" expanded="true" signature="19365:19411" ph="SELECT * FRO... @##_weixin_bonus" />
+                <marker date="1487777721854" expanded="true" signature="19544:19598" ph="SELECT * FRO... @##_weixin_bonus_type" />
+                <marker date="1487777721854" expanded="true" signature="19879:19970" ph="INSERT INTO `@##_weixin_sign`... " />
+                <marker date="1487777721854" expanded="true" signature="20030:20103" ph="UPDATE `@##_m... " />
+                <marker date="1487777721854" expanded="true" signature="20222:20345" ph="INSERT INTO @##_member_account" />
+                <marker date="1487777721854" expanded="true" signature="20387:20526" ph="INSERT INTO `@##_member_addmoney_record`... " />
+                <marker date="1487777721854" expanded="true" signature="20580:20652" ph="UPDATE `@##_w... " />
+                <marker date="1487777721854" expanded="true" signature="21012:21044" ph="select * fro... @##_wechat_config" />
+                <marker date="1487777721854" expanded="true" signature="21671:21770" ph="SELECT * FRO... @##_weixin_point_record" />
+                <marker date="1487777721854" expanded="true" signature="21803:21875" ph="SELECT `poin... @##_weixin_point" />
+                <marker date="1487777721854" expanded="true" signature="22017:22091" ph="SELECT `poin... @##_weixin_point" />
+                <marker date="1487777721854" expanded="true" signature="22192:22357" ph="INSERT INTO `@##_weixin_point_record`... " />
+                <marker date="1487777721854" expanded="true" signature="22438:22546" ph="SELECT `last... @##_weixin_point_record" />
+                <marker date="1487777721854" expanded="true" signature="22636:22736" ph="UPDATE `@##_w... " />
+                <marker date="1487777721854" expanded="true" signature="22784:22906" ph="SELECT `num`... @##_weixin_point_record" />
+                <marker date="1487777721854" expanded="true" signature="22967:23124" ph="UPDATE `@##_w... " />
+                <marker date="1487777721854" expanded="true" signature="23292:23324" ph="SELECT * FRO... @##_weixin_point" />
+                <marker date="1487777721854" expanded="true" signature="23503:23578" ph="UPDATE `@##_m... " />
+                <marker date="1487777721854" expanded="true" signature="26983:27035" ph="SELECT * FRO... @##_member" />
+                <marker date="1487777721854" expanded="true" signature="27694:27751" ph="select * fro... @##_member_band" />
+                <marker date="1487777721854" expanded="true" signature="27800:27857" ph="select * fro... @##_member" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wechat.action.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/system/modules/admin/wechat.action.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4674">
+              <caret line="246" column="8" lean-forward="false" selection-start-line="246" selection-start-column="8" selection-end-line="246" selection-end-column="8" />
+              <folding>
+                <marker date="1489666324827" expanded="true" signature="1416:1478" ph="UPDATE `@##_w... " />
+                <marker date="1489666324827" expanded="true" signature="1504:1565" ph="UPDATE `@##_w... " />
+                <marker date="1489666324827" expanded="true" signature="1591:1660" ph="UPDATE `@##_w... " />
+                <marker date="1489666324827" expanded="true" signature="1798:1843" ph="select * fro... @##_wechat_config" />
+                <marker date="1489666324827" expanded="true" signature="4526:4571" ph="select * fro... @##_wechat_config" />
+                <marker date="1489666324827" expanded="true" signature="4899:4959" ph="UPDATE `@##_w... " />
+                <marker date="1489666324827" expanded="true" signature="4989:5058" ph="UPDATE `@##_w... " />
+                <marker date="1489666324827" expanded="true" signature="5173:5218" ph="select * fro... @##_wechat_config" />
+                <marker date="1489666324827" expanded="true" signature="6456:6527" ph="UPDATE `@##_w... " />
+                <marker date="1489666324827" expanded="true" signature="6552:6629" ph="UPDATE `@##_w... " />
+                <marker date="1489666324827" expanded="true" signature="6654:6731" ph="UPDATE `@##_w... " />
+                <marker date="1489666324827" expanded="true" signature="6756:6831" ph="UPDATE `@##_w... " />
+                <marker date="1489666324827" expanded="true" signature="6856:6933" ph="UPDATE `@##_w... " />
+                <marker date="1489666324827" expanded="true" signature="6958:7029" ph="UPDATE `@##_w... " />
+                <marker date="1489666324827" expanded="true" signature="7166:7239" ph="UPDATE `@##_w... " />
+                <marker date="1489666324827" expanded="true" signature="7264:7349" ph="UPDATE `@##_w... " />
+                <marker date="1489666324827" expanded="true" signature="7374:7461" ph="UPDATE `@##_w... " />
+                <marker date="1489666324827" expanded="true" signature="7486:7561" ph="UPDATE `@##_w... " />
+                <marker date="1489666324827" expanded="true" signature="7586:7671" ph="UPDATE `@##_w... " />
+                <marker date="1489666324827" expanded="true" signature="7696:7781" ph="UPDATE `@##_w... " />
+                <marker date="1489666324827" expanded="true" signature="7806:7891" ph="UPDATE `@##_w... " />
+                <marker date="1489666324827" expanded="true" signature="7954:7981" ph="select * fro... @##_wxch_cfg" />
+                <marker date="1489666324827" expanded="true" signature="8309:8382" ph="UPDATE `@##_w... " />
+                <marker date="1489666324827" expanded="true" signature="8407:8480" ph="UPDATE `@##_w... " />
+                <marker date="1489666324827" expanded="true" signature="8543:8570" ph="select * fro... @##_wxch_cfg" />
+                <marker date="1489666324827" expanded="true" signature="8802:8875" ph="UPDATE `@##_w... " />
+                <marker date="1489666324827" expanded="true" signature="8939:8992" ph="select * fro... @##_wxch_cfg" />
+                <marker date="1489666324827" expanded="true" signature="9193:9234" ph="SELECT COUNT... @##_weixin_keywords" />
+                <marker date="1489666324827" expanded="true" signature="9421:9521" ph="SELECT `id`,... @##_weixin_keywords" />
+                <marker date="1489666324827" expanded="true" signature="9740:9799" ph="DELETE FROM " />
+                <marker date="1489666324827" expanded="true" signature="10036:10097" ph="SELECT * FRO... @##_weixin_keywords" />
+                <marker date="1489666324827" expanded="true" signature="10484:10596" ph="UPDATE `@##_w... " />
+                <marker date="1489666324827" expanded="true" signature="10808:10905" ph="INSERT INTO `@##_weixin_keywords`... " />
+                <marker date="1489666324827" expanded="true" signature="11275:11336" ph="SELECT * FRO... @##_weixin_keywords" />
+                <marker date="1489666324827" expanded="true" signature="11930:12114" ph="UPDATE `@##_w... " />
+                <marker date="1489666324827" expanded="true" signature="12326:12494" ph="INSERT INTO `@##_weixin_keywords`... " />
+                <marker date="1489666324827" expanded="true" signature="12961:13058" ph="UPDATE `@##_w... " />
+                <marker date="1489666324827" expanded="true" signature="13211:13242" ph="SELECT * fro... @##_weixin_point" />
+                <marker date="1489666324827" expanded="true" signature="13453:13512" ph="UPDATE `@##_w... " />
+                <marker date="1489666324827" expanded="true" signature="13645:13681" ph="SELECT * fro... @##_weixin_bonus_type" />
+                <marker date="1489666324827" expanded="true" signature="13715:13746" ph="SELECT * fro... @##_weixin_bonus" />
+                <marker date="1489666324827" expanded="true" signature="13951:14010" ph="UPDATE `@##_w... " />
+                <marker date="1489666324827" expanded="true" signature="14156:14197" ph="SELECT COUNT... @##_weixin_keywords" />
+                <marker date="1489666324827" expanded="true" signature="14384:14442" ph="SELECT * fro... @##_weixin_bonus_type" />
+                <marker date="1489666324827" expanded="true" signature="14631:14663" ph="SELECT COUNT... @##_cjcode" />
+                <marker date="1489666324827" expanded="true" signature="14845:14889" ph="SELECT * fro... @##_cjcode" />
+                <marker date="1489666324827" expanded="true" signature="15457:15503" ph="SELECT * FRO... @##_cjcode" />
+                <marker date="1489666324827" expanded="true" signature="15765:15810" ph="select * fro... @##_wechat_config" />
+                <marker date="1489666324827" expanded="true" signature="16220:16336" ph="UPDATE `@##_c... " />
+                <marker date="1489666324827" expanded="true" signature="16531:16643" ph="INSERT INTO `@##_cjcode`... " />
+                <marker date="1489666324827" expanded="true" signature="16848:16890" ph="SELECT * FRO... @##_cjcode" />
+                <marker date="1489666324827" expanded="true" signature="17045:17097" ph="DELETE FROM " />
+                <marker date="1489666324827" expanded="true" signature="17128:17174" ph="DELETE FROM " />
+                <marker date="1489666324827" expanded="true" signature="17383:17452" ph="SELECT COUNT... @##_cjlist" />
+                <marker date="1489666324827" expanded="true" signature="17642:17726" ph="SELECT * fro... @##_cjlist" />
+                <marker date="1489666324827" expanded="true" signature="18032:18101" ph="SELECT COUNT... @##_cjlist" />
+                <marker date="1489666324827" expanded="true" signature="18291:18375" ph="SELECT * fro... @##_cjlist" />
+                <marker date="1489666324827" expanded="true" signature="19072:19139" ph="SELECT * FRO... @##_weixin_bonus_type" />
+                <marker date="1489666324827" expanded="true" signature="19392:19612" ph="UPDATE `@##_w... " />
+                <marker date="1489666324827" expanded="true" signature="19801:20078" ph="INSERT INTO `@##_weixin_bonus_type`... " />
+                <marker date="1489666324827" expanded="true" signature="20311:20369" ph="SELECT * FRO... @##_weixin_bonus_type" />
+                <marker date="1489666324827" expanded="true" signature="20515:20581" ph="DELETE FROM " />
+                <marker date="1489666324827" expanded="true" signature="20798:20859" ph="SELECT COUNT... @##_weixin_sign" />
+                <marker date="1489666324827" expanded="true" signature="21051:21131" ph="SELECT * fro... @##_weixin_sign" />
+                <marker date="1489666324827" expanded="true" signature="21409:21453" ph="SELECT * FRO... @##_member" />
+                <marker date="1489666324827" expanded="true" signature="21514:21590" ph="SELECT COUNT... @##_weixin_sign" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="global.fun.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/system/funcs/global.fun.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10260">
+              <caret line="544" column="50" lean-forward="false" selection-start-line="544" selection-start-column="50" selection-end-line="544" selection-end-column="50" />
+              <folding>
+                <marker date="1487821683607" expanded="true" signature="16405:17534" ph="..." />
+                <marker date="1487821683607" expanded="true" signature="16411:17443" ph="..." />
+                <marker date="1487821683607" expanded="true" signature="16459:17369" ph="..." />
+                <marker date="1487821683607" expanded="true" signature="16833:17003" ph="{...}" />
+                <marker date="1487821683607" expanded="true" signature="17010:17234" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="system.class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/system/libs/system.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="template_cache.class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/system/libs/template_cache.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="665">
+              <caret line="41" column="8" lean-forward="false" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="templates.inc.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/system/config/templates.inc.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pay.action.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/system/modules/pay/pay.action.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="779">
+              <caret line="41" column="35" lean-forward="false" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="35" />
+              <folding>
+                <marker date="1481096727749" expanded="true" signature="379:409" ph="SELECT * FRO... @##_pay" />
+                <marker date="1481096727749" expanded="true" signature="605:680" ph="UPDATE `@##_c... " />
+                <marker date="1481096727749" expanded="true" signature="793:848" ph="select * fro... @##_caches" />
+                <marker date="1481096727749" expanded="true" signature="1022:1070" ph="SELECT * FRO... @##_pay" />
+                <marker date="1481096727749" expanded="true" signature="1927:2102" ph="UPDATE `@##_p... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cache.action.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/system/modules/admin/cache.action.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="42" lean-forward="false" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cache.tpl.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/system/modules/admin/tpl/cache.tpl.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="23" column="84" lean-forward="false" selection-start-line="23" selection-start-column="84" selection-end-line="23" selection-end-column="84" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>config</find>
+      <find>email</find>
+      <find>insert</find>
+      <find>$member_group</find>
+      <find>info</find>
+      <find>modelid</find>
+      <find>membergroup</find>
+      <find>set_dingd</find>
+      <find>goodsse</find>
+      <find>add</find>
+      <find>group</find>
+      <find>$MoneyCount</find>
+      <find>is_head</find>
+      <find>addSh</find>
+      <find>status</find>
+      <find>go_pay</find>
+      <find>$info</find>
+      <find>goodsSelect</find>
+      <find>s</find>
+      <find>$limit</find>
+      <find>addshop</find>
+      <find>pay_bag</find>
+      <find>order_refund</find>
+      <find>$order_id</find>
+      <find>$signNum</find>
+      <find>$html</find>
+      <find>get_tree</find>
+      <find>$pageurl</find>
+      <find>shareUid</find>
+      <find>wechatcfg</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/system/modules/pay/lib/weixin/WxPay.pub.config.php" />
+        <option value="$PROJECT_DIR$/system/modules/pay/lib/weixin/WxPayPubHelper.php" />
+        <option value="$PROJECT_DIR$/system/modules/admin/tpl/act_order.detail.tpl.php" />
+        <option value="$PROJECT_DIR$/system/modules/pay/lib/refund.class.php" />
+        <option value="$PROJECT_DIR$/system/modules/admin/tpl/dingdan.list.tpl.php" />
+        <option value="$PROJECT_DIR$/system/modules/admin/tpl/act_order.lists.tpl.php" />
+        <option value="$PROJECT_DIR$/statics/plugin/style/global/js/global.js" />
+        <option value="$PROJECT_DIR$/system/modules/admin/tpl/activity.lists.tpl.php" />
+        <option value="$PROJECT_DIR$/statics/templates/vshop/v1/mobile/act.activityhome.html" />
+        <option value="$PROJECT_DIR$/system/modules/mobile/home.action.php" />
+        <option value="$PROJECT_DIR$/statics/templates/vshop/v1/mobile/act.myactivities.html" />
+        <option value="$PROJECT_DIR$/statics/templates/vshop/v1/mobile/user.index.html" />
+        <option value="$PROJECT_DIR$/statics/templates/vshop/v1/mobile/act.activitylists.html" />
+        <option value="$PROJECT_DIR$/system/modules/api/tpl/qq_set_config.tpl.php" />
+        <option value="$PROJECT_DIR$/system/modules/api/tpl/wx_set_config.tpl.php" />
+        <option value="$PROJECT_DIR$/system/modules/admin/tpl/wechat.cfg.tpl.php" />
+        <option value="$PROJECT_DIR$/system/modules/admin/wechat.action.php" />
+        <option value="$PROJECT_DIR$/system/modules/admin/tpl/config.system.tpl.php" />
+        <option value="$PROJECT_DIR$/system/modules/admin/setting.action.php" />
+        <option value="$PROJECT_DIR$/system/modules/admin/tpl/template.mobile.tpl.php" />
+        <option value="$PROJECT_DIR$/system/modules/admin/tpl/template.email.tpl.php" />
+        <option value="$PROJECT_DIR$/system/modules/admin/template.action.php" />
+        <option value="$PROJECT_DIR$/system/modules/admin/tpl/activity.signList.tpl.php" />
+        <option value="$PROJECT_DIR$/system/modules/admin/tpl/category.list.tpl.php" />
+        <option value="$PROJECT_DIR$/system/modules/admin/tpl/category.add.tpl.php" />
+        <option value="$PROJECT_DIR$/system/modules/admin/tpl/category.edit.tpl.php" />
+        <option value="$PROJECT_DIR$/system/modules/admin/tpl/admin.index.tpl.php" />
+        <option value="$PROJECT_DIR$/system/modules/member/tpl/member_insert.tpl.php" />
+        <option value="$PROJECT_DIR$/system/modules/member/tpl/member_modify.tpl.php" />
+        <option value="$PROJECT_DIR$/system/modules/member/member.action.php" />
+        <option value="$PROJECT_DIR$/system/modules/admin/tpl/activity.add.tpl.php" />
+        <option value="$PROJECT_DIR$/system/modules/admin/tpl/activity.edit.tpl.php" />
+        <option value="$PROJECT_DIR$/system/modules/admin/tpl/activity.copy.tpl.php" />
+        <option value="$PROJECT_DIR$/statics/templates/vshop/js/mobile/goodsselect.js" />
+        <option value="$PROJECT_DIR$/system/modules/mobile/ajax.action.php" />
+        <option value="$PROJECT_DIR$/statics/templates/vshop/js/mobile/groupPurchase.js" />
+        <option value="$PROJECT_DIR$/statics/templates/vshop/js/mobile/PaymentFun.js" />
+        <option value="$PROJECT_DIR$/system/modules/pay/lib/pay.class.php" />
+        <option value="$PROJECT_DIR$/act_refund.php" />
+        <option value="$PROJECT_DIR$/system/config/database.inc.php" />
+        <option value="$PROJECT_DIR$/refund/MyPDO.class.php" />
+        <option value="$PROJECT_DIR$/statics/templates/vshop/v1/mobile/cart.grouppay.html" />
+        <option value="$PROJECT_DIR$/system/modules/mobile/cart.action.php" />
+        <option value="$PROJECT_DIR$/system/modules/admin/tpl/admin.default.tpl.php" />
+        <option value="$PROJECT_DIR$/system/modules/admin/act_order.action.php" />
+        <option value="$PROJECT_DIR$/refund/act_refund.php" />
+        <option value="$PROJECT_DIR$/system/modules/mobile/activity.action.php" />
+        <option value="$PROJECT_DIR$/statics/templates/vshop/v1/mobile/act.activity.html" />
+        <option value="$PROJECT_DIR$/system/modules/admin/activity.action.php" />
+        <option value="$PROJECT_DIR$/system/modules/admin/category.action.php" />
+        <option value="$PROJECT_DIR$/system/libs/page.class.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outmall" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outmall" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outmall" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outmall" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="system" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wechat" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outmall" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outmall" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="system" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outmall" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outmall" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="system" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outmall" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outmall" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="system" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outmall" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outmall" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="system" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outmall" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outmall" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="statics" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="D:/wamp/mytp5" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="js.eslint.eslintPackage" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\www\outmall\system\modules\admin\tpl" />
+      <recent name="D:\www\outmall\system\modules\mobile" />
+      <recent name="D:\www\outmall\system\config" />
+      <recent name="D:\www\outmall\system\modules\admin" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\John\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65f03a59-4444-464a-876c-578fe67d1474" name="Default" comment="" />
+      <created>1483516631865</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1483516631865</updated>
+      <workItem from="1483516633615" duration="3565000" />
+      <workItem from="1483583444482" duration="2539000" />
+      <workItem from="1483666347886" duration="4515000" />
+      <workItem from="1483687330144" duration="929000" />
+      <workItem from="1483924874027" duration="9108000" />
+      <workItem from="1483948421820" duration="4427000" />
+      <workItem from="1484011480224" duration="14987000" />
+      <workItem from="1484098885236" duration="18222000" />
+      <workItem from="1484184758402" duration="17634000" />
+      <workItem from="1484271129780" duration="8977000" />
+      <workItem from="1484551546894" duration="602000" />
+      <workItem from="1484616127629" duration="6056000" />
+      <workItem from="1484710463071" duration="110000" />
+      <workItem from="1484790419267" duration="765000" />
+      <workItem from="1486430422471" duration="18662000" />
+      <workItem from="1486460340022" duration="989000" />
+      <workItem from="1486516532779" duration="12649000" />
+      <workItem from="1486538597818" duration="8584000" />
+      <workItem from="1486604617105" duration="21247000" />
+      <workItem from="1486695255363" duration="20338000" />
+      <workItem from="1486948619258" duration="21048000" />
+      <workItem from="1487036576660" duration="13833000" />
+      <workItem from="1487059195194" duration="2358000" />
+      <workItem from="1487121928226" duration="27986000" />
+      <workItem from="1487159233342" duration="2268000" />
+      <workItem from="1487208104312" duration="25394000" />
+      <workItem from="1487245475223" duration="8581000" />
+      <workItem from="1487294244415" duration="27349000" />
+      <workItem from="1487386300365" duration="5375000" />
+      <workItem from="1487470354597" duration="17084000" />
+      <workItem from="1487500060568" duration="17673000" />
+      <workItem from="1487555379706" duration="23373000" />
+      <workItem from="1487639821197" duration="25094000" />
+      <workItem from="1487680378590" duration="1980000" />
+      <workItem from="1487726380235" duration="18350000" />
+      <workItem from="1487763528610" duration="9940000" />
+      <workItem from="1487812900437" duration="28092000" />
+      <workItem from="1487851129884" duration="11524000" />
+      <workItem from="1487899168960" duration="25837000" />
+      <workItem from="1487998615369" duration="609000" />
+      <workItem from="1488099063572" duration="90000" />
+      <workItem from="1488159950519" duration="20757000" />
+      <workItem from="1488244654137" duration="17523000" />
+      <workItem from="1488266531108" duration="5028000" />
+      <workItem from="1488282243060" duration="6854000" />
+      <workItem from="1488330739089" duration="14368000" />
+      <workItem from="1488369206647" duration="1164000" />
+      <workItem from="1488417508456" duration="25255000" />
+      <workItem from="1488503650356" duration="24654000" />
+      <workItem from="1488763983271" duration="21676000" />
+      <workItem from="1488849315722" duration="17250000" />
+      <workItem from="1488937061036" duration="24405000" />
+      <workItem from="1489022834532" duration="16834000" />
+      <workItem from="1489109822560" duration="21780000" />
+      <workItem from="1489368081802" duration="11452000" />
+      <workItem from="1489454219260" duration="31110000" />
+      <workItem from="1489540919971" duration="19416000" />
+      <workItem from="1489626922261" duration="25580000" />
+      <workItem from="1489656098280" duration="8381000" />
+      <workItem from="1489673390801" duration="6197000" />
+      <workItem from="1489713341020" duration="29195000" />
+      <workItem from="1489752122046" duration="1026000" />
+      <workItem from="1489757484665" duration="3187000" />
+      <workItem from="1489802806173" duration="2518000" />
+      <workItem from="1489838450439" duration="1259000" />
+      <workItem from="1489894770610" duration="11662000" />
+      <workItem from="1489912924065" duration="5393000" />
+      <workItem from="1490006201518" duration="796000" />
+      <workItem from="1490167666522" duration="679000" />
+      <workItem from="1490169315644" duration="113000" />
+      <workItem from="1490169710145" duration="253000" />
+      <workItem from="1490179827817" duration="1161000" />
+      <workItem from="1494383691317" duration="44000" />
+      <workItem from="1494383837567" duration="441000" />
+      <workItem from="1494389375644" duration="76000" />
+      <workItem from="1494390063080" duration="37000" />
+      <workItem from="1497189423310" duration="641000" />
+      <workItem from="1497229698512" duration="46000" />
+      <workItem from="1498099565613" duration="5644000" />
+      <workItem from="1498358712339" duration="37000" />
+      <workItem from="1499052657937" duration="7279000" />
+      <workItem from="1499131189954" duration="3969000" />
+      <workItem from="1499698010898" duration="105000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="883988000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21785174" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="12" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/system/modules/member/member.action.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="352" column="139" lean-forward="false" selection-start-line="352" selection-start-column="139" selection-end-line="352" selection-end-column="139" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/statics/templates/vshop/js/mobile/groupPurchase.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="21" column="49" lean-forward="false" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/modules/mobile/ajax.action.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="280" column="116" lean-forward="true" selection-start-line="280" selection-start-column="116" selection-end-line="280" selection-end-column="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/statics/templates/vshop/js/mobile/PaymentFun.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="48" column="78" lean-forward="false" selection-start-line="48" selection-start-column="78" selection-end-line="48" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/modules/pay/wxpay_web_url.action.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-792">
+          <caret line="96" column="113" lean-forward="false" selection-start-line="96" selection-start-column="100" selection-end-line="96" selection-end-column="113" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/execute.php" />
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/act_refund.php" />
+    <entry file="file://$PROJECT_DIR$/system/libs/model.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="94" column="36" lean-forward="false" selection-start-line="94" selection-start-column="36" selection-end-line="94" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/statics/templates/vshop/v1/mobile/cart.grouppay.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2128">
+          <caret line="112" column="26" lean-forward="false" selection-start-line="112" selection-start-column="26" selection-end-line="112" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/modules/admin/tpl/admin.default.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="124" column="43" lean-forward="false" selection-start-line="124" selection-start-column="43" selection-end-line="124" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/modules/admin/tpl/act_order.detail.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="343" column="73" lean-forward="false" selection-start-line="343" selection-start-column="61" selection-end-line="343" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/refund/act_refund.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-209">
+          <caret line="95" column="80" lean-forward="false" selection-start-line="95" selection-start-column="69" selection-end-line="95" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/modules/api/lib/connect.ini.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="9" lean-forward="false" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/refund/MyPDO.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="64" column="24" lean-forward="false" selection-start-line="64" selection-start-column="24" selection-end-line="64" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/modules/admin/act_order.action.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="516">
+          <caret line="400" column="19" lean-forward="false" selection-start-line="400" selection-start-column="12" selection-end-line="400" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/modules/pay/lib/refund.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="23" column="56" lean-forward="false" selection-start-line="23" selection-start-column="56" selection-end-line="23" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/modules/pay/lib/weixin/WxPayPubHelper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="385" column="13" lean-forward="false" selection-start-line="385" selection-start-column="13" selection-end-line="385" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/modules/pay/lib/weixin/WxPay.pub.config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-130">
+          <caret line="5" column="6" lean-forward="false" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/modules/pay/lib/pay.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12616">
+          <caret line="664" column="17" lean-forward="false" selection-start-line="664" selection-start-column="8" selection-end-line="664" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/modules/pay/lib/wxpay_web.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="51" column="5" lean-forward="false" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pay/demo/js_api_call.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/modules/pay/lib/wapalipay.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/modules/admin/tpl/activity.signList.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2546">
+          <caret line="130" column="41" lean-forward="false" selection-start-line="130" selection-start-column="35" selection-end-line="130" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/modules/admin/tpl/activity.signListDetail.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1729">
+          <caret line="89" column="39" lean-forward="false" selection-start-line="89" selection-start-column="35" selection-end-line="89" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/statics/templates/vshop/v1/mobile/index.goodsdesc.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/modules/admin/tpl/category.list.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="32" column="26" lean-forward="false" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/statics/templates/vshop/v1/mobile/index.index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3553">
+          <caret line="187" column="50" lean-forward="false" selection-start-line="187" selection-start-column="50" selection-end-line="187" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/modules/mobile/map.action.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1380">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/libs/mysql.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/libs/tree.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2242">
+          <caret line="118" column="46" lean-forward="true" selection-start-line="118" selection-start-column="46" selection-end-line="118" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/modules/mobile/mobile.action.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/modules/mobile/cart.action.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-38">
+          <caret line="911" column="41" lean-forward="false" selection-start-line="911" selection-start-column="41" selection-end-line="911" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/modules/admin/category.action.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="27" column="40" lean-forward="false" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
+          <folding>
+            <marker date="1490180622225" expanded="true" signature="796:878" ph="SELECT * FRO... @##_category" />
+            <marker date="1490180622225" expanded="true" signature="935:967" ph="SELECT * FRO... @##_model" />
+            <marker date="1490180622225" expanded="true" signature="1715:2336" ph="..." />
+            <marker date="1490180622225" expanded="true" signature="2037:2320" ph="..." />
+            <marker date="1490180622225" expanded="true" signature="2571:2651" ph="SELECT * FRO... @##_category" />
+            <marker date="1490180622225" expanded="true" signature="2708:2740" ph="SELECT * FRO... @##_model" />
+            <marker date="1490180622225" expanded="true" signature="3110:3172" ph="SELECT * FRO... @##_category" />
+            <marker date="1490180622225" expanded="true" signature="4536:4751" ph="INSERT INTO `@##_category`... " />
+            <marker date="1490180622225" expanded="true" signature="5995:6239" ph="INSERT INTO `@##_category`... " />
+            <marker date="1490180622225" expanded="true" signature="6772:6951" ph="INSERT INTO `@##_category`... " />
+            <marker date="1490180622225" expanded="true" signature="7411:7473" ph="SELECT * FRO... @##_category" />
+            <marker date="1490180622225" expanded="true" signature="7603:7683" ph="SELECT * FRO... @##_category" />
+            <marker date="1490180622225" expanded="true" signature="7741:7773" ph="SELECT * FRO... @##_model" />
+            <marker date="1490180622225" expanded="true" signature="8272:8346" ph="SELECT * FRO... @##_category" />
+            <marker date="1490180622225" expanded="true" signature="9505:9756" ph="UPDATE `@##_c... " />
+            <marker date="1490180622225" expanded="true" signature="10843:11056" ph="UPDATE `@##_c... " />
+            <marker date="1490180622225" expanded="true" signature="11592:11713" ph="UPDATE `@##_c... " />
+            <marker date="1490180622225" expanded="true" signature="12186:12256" ph="UPDATE `@##_c... " />
+            <marker date="1490180622225" expanded="true" signature="12474:12534" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/config/database.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/libs/page.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="104" column="18" lean-forward="false" selection-start-line="104" selection-start-column="18" selection-end-line="104" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/libs/Alidayuclient.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-399">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/modules/admin/activity.action.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1010">
+          <caret line="291" column="8" lean-forward="true" selection-start-line="291" selection-start-column="8" selection-end-line="291" selection-end-column="8" />
+          <folding>
+            <marker date="1490169356117" expanded="true" signature="1737:1806" ph="select * fro... @##_act_category" />
+            <marker date="1490169356117" expanded="true" signature="1917:2047" ph="insert into `@##_act_category`... " />
+            <marker date="1490169356117" expanded="true" signature="2329:2391" ph="select * fro... @##_act_category" />
+            <marker date="1490169356117" expanded="true" signature="2778:2823" ph="select * fro... @##_act_category" />
+            <marker date="1490169356117" expanded="true" signature="3900:3988" ph="select * fro... @##_act_category" />
+            <marker date="1490169356117" expanded="true" signature="4144:4206" ph="select * fro... @##_act_category" />
+            <marker date="1490169356117" expanded="true" signature="4464:4575" ph="update `@##_a... " />
+            <marker date="1490169356117" expanded="true" signature="4862:4924" ph="select * fro... @##_act_category" />
+            <marker date="1490169356117" expanded="true" signature="5311:5356" ph="select * fro... @##_act_category" />
+            <marker date="1490169356117" expanded="true" signature="5871:5921" ph="select * fro... @##_act_category" />
+            <marker date="1490169356117" expanded="true" signature="6062:6105" ph="delete from " />
+            <marker date="1490169356117" expanded="true" signature="6371:6433" ph="select * fro... @##_act_category" />
+            <marker date="1490169356117" expanded="true" signature="7269:8058" ph="..." />
+            <marker date="1490169356117" expanded="true" signature="7724:8040" ph="..." />
+            <marker date="1490169356117" expanded="true" signature="8441:8514" ph="UPDATE `@##_a... " />
+            <marker date="1490169356117" expanded="true" signature="9429:9488" ph="update `@##_a... " />
+            <marker date="1490169356117" expanded="true" signature="10001:10043" ph="SELECT COUNT... @##_activity" />
+            <marker date="1490169356117" expanded="true" signature="10227:10285" ph="select * fro... @##_activity" />
+            <marker date="1490169356117" expanded="true" signature="10477:10537" ph="select * fro... @##_act_charge" />
+            <marker date="1490169356117" expanded="true" signature="10880:10960" ph="SELECT COUNT... @##_act_sign" />
+            <marker date="1490169356117" expanded="true" signature="11144:11274" ph="select * fro... @##_act_sign" />
+            <marker date="1490169356117" expanded="true" signature="11728:11858" ph="select * fro... @##_act_sign" />
+            <marker date="1490169356117" expanded="true" signature="11940:11983" ph="select * fro... @##_activity" />
+            <marker date="1490169356117" expanded="true" signature="13909:13959" ph="select `act_... @##_activity" />
+            <marker date="1490169356117" expanded="true" signature="14117:14160" ph="delete from " />
+            <marker date="1490169356117" expanded="true" signature="14206:14250" ph="delete from " />
+            <marker date="1490169356117" expanded="true" signature="14302:14362" ph="update `@##_a... " />
+            <marker date="1490169356117" expanded="true" signature="15729:15770" ph="SELECT COUNT... @##_activity" />
+            <marker date="1490169356117" expanded="true" signature="15965:16039" ph="select * fro... @##_activity" />
+            <marker date="1490169356117" expanded="true" signature="16300:16401" ph="select group... @##_act_category" />
+            <marker date="1490169356117" expanded="true" signature="16698:16753" ph="select `act_... @##_activity" />
+            <marker date="1490169356117" expanded="true" signature="17991:18048" ph="update `@##_a... " />
+            <marker date="1490169356117" expanded="true" signature="23841:24415" ph="insert into `@##_activity`... " />
+            <marker date="1490169356117" expanded="true" signature="25278:25335" ph="insert into `@##_act_step`... " />
+            <marker date="1490169356117" expanded="true" signature="25899:25957" ph="insert into `@##_act_notice`... " />
+            <marker date="1490169356117" expanded="true" signature="26359:26427" ph="insert into `@##_act_filter`... " />
+            <marker date="1490169356117" expanded="true" signature="26859:27011" ph="insert into `@##_item_share`... " />
+            <marker date="1490169356117" expanded="true" signature="28844:28905" ph="select * fro... @##_act_attr" />
+            <marker date="1490169356117" expanded="true" signature="29201:29236" ph="select * fro... @##_shoplist" />
+            <marker date="1490169356117" expanded="true" signature="29301:29363" ph="select * fro... @##_act_category" />
+            <marker date="1490169356117" expanded="true" signature="35682:36260" ph="update `@##_a... " />
+            <marker date="1490169356117" expanded="true" signature="36478:36526" ph="select `id` @##_act_step" />
+            <marker date="1490169356117" expanded="true" signature="37084:37153" ph="update `@##_a... " />
+            <marker date="1490169356117" expanded="true" signature="37504:37589" ph="insert into `@##_act_step`... " />
+            <marker date="1490169356117" expanded="true" signature="38049:38101" ph="delete from " />
+            <marker date="1490169356117" expanded="true" signature="38220:38263" ph="delete from " />
+            <marker date="1490169356117" expanded="true" signature="38439:38537" ph="update `@##_a... " />
+            <marker date="1490169356117" expanded="true" signature="38691:38834" ph="update `@##_i... " />
+            <marker date="1490169356117" expanded="true" signature="38945:38999" ph="select `n_id... @##_act_notice" />
+            <marker date="1490169356117" expanded="true" signature="39388:39446" ph="update `@##_a... " />
+            <marker date="1490169356117" expanded="true" signature="39754:39829" ph="insert into `@##_act_notice`... " />
+            <marker date="1490169356117" expanded="true" signature="40227:40279" ph="delete from " />
+            <marker date="1490169356117" expanded="true" signature="40361:40408" ph="delete from " />
+            <marker date="1490169356117" expanded="true" signature="40923:40966" ph="select * fro... @##_activity" />
+            <marker date="1490169356117" expanded="true" signature="41034:41077" ph="select * fro... @##_act_step" />
+            <marker date="1490169356117" expanded="true" signature="41179:41245" ph="select * fro... @##_item_share" />
+            <marker date="1490169356117" expanded="true" signature="41305:41366" ph="select * fro... @##_act_attr" />
+            <marker date="1490169356117" expanded="true" signature="41635:41680" ph="select * fro... @##_act_filter" />
+            <marker date="1490169356117" expanded="true" signature="41752:41814" ph="select * fro... @##_act_category" />
+            <marker date="1490169356117" expanded="true" signature="42556:42630" ph="select * fro... @##_act_notice" />
+            <marker date="1490169356117" expanded="true" signature="48035:48609" ph="insert into `@##_activity`... " />
+            <marker date="1490169356117" expanded="true" signature="49473:49530" ph="insert into `@##_act_step`... " />
+            <marker date="1490169356117" expanded="true" signature="50094:50152" ph="insert into `@##_act_notice`... " />
+            <marker date="1490169356117" expanded="true" signature="50554:50622" ph="insert into `@##_act_filter`... " />
+            <marker date="1490169356117" expanded="true" signature="51054:51206" ph="insert into `@##_item_share`... " />
+            <marker date="1490169356117" expanded="true" signature="51689:51732" ph="select * fro... @##_activity" />
+            <marker date="1490169356117" expanded="true" signature="51800:51843" ph="select * fro... @##_act_step" />
+            <marker date="1490169356117" expanded="true" signature="51945:52011" ph="select * fro... @##_item_share" />
+            <marker date="1490169356117" expanded="true" signature="52071:52132" ph="select * fro... @##_act_attr" />
+            <marker date="1490169356117" expanded="true" signature="52401:52446" ph="select * fro... @##_act_filter" />
+            <marker date="1490169356117" expanded="true" signature="52518:52580" ph="select * fro... @##_act_category" />
+            <marker date="1490169356117" expanded="true" signature="53321:53395" ph="select * fro... @##_act_notice" />
+            <marker date="1490169356117" expanded="true" signature="53759:53803" ph="select * fro... @##_act_attr" />
+            <marker date="1490169356117" expanded="true" signature="53954:53999" ph="select * fro... @##_act_attr" />
+            <marker date="1490169356117" expanded="true" signature="55064:55080" ph="..." />
+            <marker date="1490169356117" expanded="true" signature="55558:55608" ph="select `act_... @##_activity" />
+            <marker date="1490169356117" expanded="true" signature="55739:55785" ph="select * fro... @##_act_order" />
+            <marker date="1490169356117" expanded="true" signature="55915:55956" ph="delete from " />
+            <marker date="1490169356117" expanded="true" signature="56097:56138" ph="delete from " />
+            <marker date="1490169356117" expanded="true" signature="56184:56227" ph="delete from " />
+            <marker date="1490169356117" expanded="true" signature="56273:56318" ph="delete from " />
+            <marker date="1490169356117" expanded="true" signature="56364:56421" ph="delete from " />
+            <marker date="1490169356117" expanded="true" signature="57340:57389" ph="select `id` @##_map_config" />
+            <marker date="1490169356117" expanded="true" signature="57491:57553" ph="select * fro... @##_map_config" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/statics/templates/vshop/v1/mobile/act.activity.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="257" column="51" lean-forward="false" selection-start-line="257" selection-start-column="43" selection-end-line="257" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/config/global.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="93" lean-forward="false" selection-start-line="11" selection-start-column="93" selection-end-line="11" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/modules/pay/pay.action.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="41" column="35" lean-forward="false" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="35" />
+          <folding>
+            <marker date="1481096727749" expanded="true" signature="379:409" ph="SELECT * FRO... @##_pay" />
+            <marker date="1481096727749" expanded="true" signature="605:680" ph="UPDATE `@##_c... " />
+            <marker date="1481096727749" expanded="true" signature="793:848" ph="select * fro... @##_caches" />
+            <marker date="1481096727749" expanded="true" signature="1022:1070" ph="SELECT * FRO... @##_pay" />
+            <marker date="1481096727749" expanded="true" signature="1927:2102" ph="UPDATE `@##_p... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/modules/admin/tpl/cache.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="84" lean-forward="false" selection-start-line="23" selection-start-column="84" selection-end-line="23" selection-end-column="84" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/modules/admin/cache.action.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="42" lean-forward="false" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/config/templates.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/funcs/global.fun.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10260">
+          <caret line="544" column="50" lean-forward="false" selection-start-line="544" selection-start-column="50" selection-end-line="544" selection-end-column="50" />
+          <folding>
+            <marker date="1487821683607" expanded="true" signature="16405:17534" ph="..." />
+            <marker date="1487821683607" expanded="true" signature="16411:17443" ph="..." />
+            <marker date="1487821683607" expanded="true" signature="16459:17369" ph="..." />
+            <marker date="1487821683607" expanded="true" signature="16833:17003" ph="{...}" />
+            <marker date="1487821683607" expanded="true" signature="17010:17234" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_5.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="99" column="9" lean-forward="false" selection-start-line="99" selection-start-column="9" selection-end-line="99" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/libs/system.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/wechat/wechat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1487777721854" expanded="true" signature="1289:1346" ph="SELECT * FRO... @##_wxch_cfg" />
+            <marker date="1487777721854" expanded="true" signature="1470:1527" ph="SELECT * FRO... @##_wxch_cfg" />
+            <marker date="1487777721854" expanded="true" signature="1663:1739" ph="SELECT `b_ui... @##_member_band" />
+            <marker date="1487777721854" expanded="true" signature="1795:2033" ph="..." />
+            <marker date="1487777721854" expanded="true" signature="2057:2331" ph="..." />
+            <marker date="1487777721854" expanded="true" signature="2270:2293" ph="..." />
+            <marker date="1487777721854" expanded="true" signature="2354:2628" ph="..." />
+            <marker date="1487777721854" expanded="true" signature="2567:2590" ph="..." />
+            <marker date="1487777721854" expanded="true" signature="2836:2900" ph="SELECT `cfg_... @##_wxch_cfg" />
+            <marker date="1487777721854" expanded="true" signature="3054:3120" ph="SELECT `cfg_... @##_wxch_cfg" />
+            <marker date="1487777721854" expanded="true" signature="3561:3606" ph="select * fro... @##_wechat_config" />
+            <marker date="1487777721854" expanded="true" signature="4289:4460" ph="INSERT INTO `@##_member`... " />
+            <marker date="1487777721854" expanded="true" signature="4528:4645" ph="INSERT INTO `@##_member_band`... " />
+            <marker date="1487777721854" expanded="true" signature="4918:4975" ph="UPDATE `@##_c... " />
+            <marker date="1487777721854" expanded="true" signature="5026:5125" ph="SELECT * FRO... @##_cjlist" />
+            <marker date="1487777721854" expanded="true" signature="5180:5298" ph="INSERT INTO `@##_cjlist`... " />
+            <marker date="1487777721854" expanded="true" signature="5342:5459" ph="UPDATE `@##_c... " />
+            <marker date="1487777721854" expanded="true" signature="5850:5907" ph="UPDATE `@##_c... " />
+            <marker date="1487777721854" expanded="true" signature="5959:6060" ph="SELECT * fro... @##_cjlist" />
+            <marker date="1487777721854" expanded="true" signature="6117:6237" ph="INSERT INTO `@##_cjlist`... " />
+            <marker date="1487777721854" expanded="true" signature="6283:6402" ph="UPDATE `@##_c... " />
+            <marker date="1487777721854" expanded="true" signature="6506:6554" ph="SELECT `user... @##_member" />
+            <marker date="1487777721854" expanded="true" signature="7125:7184" ph="UPDATE `@##_c... " />
+            <marker date="1487777721854" expanded="true" signature="7234:7335" ph="SELECT * fro... @##_cjlist" />
+            <marker date="1487777721854" expanded="true" signature="7388:7521" ph="INSERT INTO `@##_cjlist`... " />
+            <marker date="1487777721854" expanded="true" signature="7563:7682" ph="UPDATE `@##_c... " />
+            <marker date="1487777721854" expanded="true" signature="7800:7834" ph="SELECT * FRO... @##_weixin_keywords" />
+            <marker date="1487777721854" expanded="true" signature="8233:8297" ph="UPDATE `@##_w... " />
+            <marker date="1487777721854" expanded="true" signature="8525:8765" ph="..." />
+            <marker date="1487777721854" expanded="true" signature="8925:8989" ph="UPDATE `@##_w... " />
+            <marker date="1487777721854" expanded="true" signature="9587:9659" ph="SELECT `auto... @##_weixin_point" />
+            <marker date="1487777721854" expanded="true" signature="9782:9857" ph="SELECT `poin... @##_weixin_point" />
+            <marker date="1487777721854" expanded="true" signature="10363:10434" ph="SELECT * FRO... @##_member_band" />
+            <marker date="1487777721854" expanded="true" signature="10855:10931" ph="SELECT `b_ui... @##_member_band" />
+            <marker date="1487777721854" expanded="true" signature="10987:11033" ph="SELECT * FRO... @##_member" />
+            <marker date="1487777721854" expanded="true" signature="11605:11703" ph="SELECT * FRO... @##_shoplist" />
+            <marker date="1487777721854" expanded="true" signature="11927:12101" ph="..." />
+            <marker date="1487777721854" expanded="true" signature="12417:12514" ph="SELECT * FRO... @##_shoplist" />
+            <marker date="1487777721854" expanded="true" signature="12738:12908" ph="..." />
+            <marker date="1487777721854" expanded="true" signature="13225:13320" ph="SELECT * FRO... @##_shoplist" />
+            <marker date="1487777721854" expanded="true" signature="13544:13714" ph="..." />
+            <marker date="1487777721854" expanded="true" signature="14028:14133" ph="SELECT * FRO... @##_member_go_record" />
+            <marker date="1487777721854" expanded="true" signature="14669:14870" ph="..." />
+            <marker date="1487777721854" expanded="true" signature="15377:15482" ph="SELECT * FRO... @##_member_go_record" />
+            <marker date="1487777721854" expanded="true" signature="15525:15588" ph="SELECT `uid`... @##_member" />
+            <marker date="1487777721854" expanded="true" signature="15645:15724" ph="SELECT * FRO... @##_member_go_record" />
+            <marker date="1487777721854" expanded="true" signature="16827:16919" ph="SELECT * FRO... @##_shoplist" />
+            <marker date="1487777721854" expanded="true" signature="17143:17313" ph="..." />
+            <marker date="1487777721854" expanded="true" signature="17952:18001" ph="SELECT * FRO... @##_shoplist" />
+            <marker date="1487777721854" expanded="true" signature="18371:18430" ph="SELECT * FRO... @##_article" />
+            <marker date="1487777721854" expanded="true" signature="18668:18839" ph="..." />
+            <marker date="1487777721854" expanded="true" signature="19120:19185" ph="SELECT `stat... @##_weixin_sign" />
+            <marker date="1487777721854" expanded="true" signature="19365:19411" ph="SELECT * FRO... @##_weixin_bonus" />
+            <marker date="1487777721854" expanded="true" signature="19544:19598" ph="SELECT * FRO... @##_weixin_bonus_type" />
+            <marker date="1487777721854" expanded="true" signature="19879:19970" ph="INSERT INTO `@##_weixin_sign`... " />
+            <marker date="1487777721854" expanded="true" signature="20030:20103" ph="UPDATE `@##_m... " />
+            <marker date="1487777721854" expanded="true" signature="20222:20345" ph="INSERT INTO @##_member_account" />
+            <marker date="1487777721854" expanded="true" signature="20387:20526" ph="INSERT INTO `@##_member_addmoney_record`... " />
+            <marker date="1487777721854" expanded="true" signature="20580:20652" ph="UPDATE `@##_w... " />
+            <marker date="1487777721854" expanded="true" signature="21012:21044" ph="select * fro... @##_wechat_config" />
+            <marker date="1487777721854" expanded="true" signature="21671:21770" ph="SELECT * FRO... @##_weixin_point_record" />
+            <marker date="1487777721854" expanded="true" signature="21803:21875" ph="SELECT `poin... @##_weixin_point" />
+            <marker date="1487777721854" expanded="true" signature="22017:22091" ph="SELECT `poin... @##_weixin_point" />
+            <marker date="1487777721854" expanded="true" signature="22192:22357" ph="INSERT INTO `@##_weixin_point_record`... " />
+            <marker date="1487777721854" expanded="true" signature="22438:22546" ph="SELECT `last... @##_weixin_point_record" />
+            <marker date="1487777721854" expanded="true" signature="22636:22736" ph="UPDATE `@##_w... " />
+            <marker date="1487777721854" expanded="true" signature="22784:22906" ph="SELECT `num`... @##_weixin_point_record" />
+            <marker date="1487777721854" expanded="true" signature="22967:23124" ph="UPDATE `@##_w... " />
+            <marker date="1487777721854" expanded="true" signature="23292:23324" ph="SELECT * FRO... @##_weixin_point" />
+            <marker date="1487777721854" expanded="true" signature="23503:23578" ph="UPDATE `@##_m... " />
+            <marker date="1487777721854" expanded="true" signature="26983:27035" ph="SELECT * FRO... @##_member" />
+            <marker date="1487777721854" expanded="true" signature="27694:27751" ph="select * fro... @##_member_band" />
+            <marker date="1487777721854" expanded="true" signature="27800:27857" ph="select * fro... @##_member" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/modules/admin/wechat.action.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4674">
+          <caret line="246" column="8" lean-forward="false" selection-start-line="246" selection-start-column="8" selection-end-line="246" selection-end-column="8" />
+          <folding>
+            <marker date="1489666324827" expanded="true" signature="1416:1478" ph="UPDATE `@##_w... " />
+            <marker date="1489666324827" expanded="true" signature="1504:1565" ph="UPDATE `@##_w... " />
+            <marker date="1489666324827" expanded="true" signature="1591:1660" ph="UPDATE `@##_w... " />
+            <marker date="1489666324827" expanded="true" signature="1798:1843" ph="select * fro... @##_wechat_config" />
+            <marker date="1489666324827" expanded="true" signature="4526:4571" ph="select * fro... @##_wechat_config" />
+            <marker date="1489666324827" expanded="true" signature="4899:4959" ph="UPDATE `@##_w... " />
+            <marker date="1489666324827" expanded="true" signature="4989:5058" ph="UPDATE `@##_w... " />
+            <marker date="1489666324827" expanded="true" signature="5173:5218" ph="select * fro... @##_wechat_config" />
+            <marker date="1489666324827" expanded="true" signature="6456:6527" ph="UPDATE `@##_w... " />
+            <marker date="1489666324827" expanded="true" signature="6552:6629" ph="UPDATE `@##_w... " />
+            <marker date="1489666324827" expanded="true" signature="6654:6731" ph="UPDATE `@##_w... " />
+            <marker date="1489666324827" expanded="true" signature="6756:6831" ph="UPDATE `@##_w... " />
+            <marker date="1489666324827" expanded="true" signature="6856:6933" ph="UPDATE `@##_w... " />
+            <marker date="1489666324827" expanded="true" signature="6958:7029" ph="UPDATE `@##_w... " />
+            <marker date="1489666324827" expanded="true" signature="7166:7239" ph="UPDATE `@##_w... " />
+            <marker date="1489666324827" expanded="true" signature="7264:7349" ph="UPDATE `@##_w... " />
+            <marker date="1489666324827" expanded="true" signature="7374:7461" ph="UPDATE `@##_w... " />
+            <marker date="1489666324827" expanded="true" signature="7486:7561" ph="UPDATE `@##_w... " />
+            <marker date="1489666324827" expanded="true" signature="7586:7671" ph="UPDATE `@##_w... " />
+            <marker date="1489666324827" expanded="true" signature="7696:7781" ph="UPDATE `@##_w... " />
+            <marker date="1489666324827" expanded="true" signature="7806:7891" ph="UPDATE `@##_w... " />
+            <marker date="1489666324827" expanded="true" signature="7954:7981" ph="select * fro... @##_wxch_cfg" />
+            <marker date="1489666324827" expanded="true" signature="8309:8382" ph="UPDATE `@##_w... " />
+            <marker date="1489666324827" expanded="true" signature="8407:8480" ph="UPDATE `@##_w... " />
+            <marker date="1489666324827" expanded="true" signature="8543:8570" ph="select * fro... @##_wxch_cfg" />
+            <marker date="1489666324827" expanded="true" signature="8802:8875" ph="UPDATE `@##_w... " />
+            <marker date="1489666324827" expanded="true" signature="8939:8992" ph="select * fro... @##_wxch_cfg" />
+            <marker date="1489666324827" expanded="true" signature="9193:9234" ph="SELECT COUNT... @##_weixin_keywords" />
+            <marker date="1489666324827" expanded="true" signature="9421:9521" ph="SELECT `id`,... @##_weixin_keywords" />
+            <marker date="1489666324827" expanded="true" signature="9740:9799" ph="DELETE FROM " />
+            <marker date="1489666324827" expanded="true" signature="10036:10097" ph="SELECT * FRO... @##_weixin_keywords" />
+            <marker date="1489666324827" expanded="true" signature="10484:10596" ph="UPDATE `@##_w... " />
+            <marker date="1489666324827" expanded="true" signature="10808:10905" ph="INSERT INTO `@##_weixin_keywords`... " />
+            <marker date="1489666324827" expanded="true" signature="11275:11336" ph="SELECT * FRO... @##_weixin_keywords" />
+            <marker date="1489666324827" expanded="true" signature="11930:12114" ph="UPDATE `@##_w... " />
+            <marker date="1489666324827" expanded="true" signature="12326:12494" ph="INSERT INTO `@##_weixin_keywords`... " />
+            <marker date="1489666324827" expanded="true" signature="12961:13058" ph="UPDATE `@##_w... " />
+            <marker date="1489666324827" expanded="true" signature="13211:13242" ph="SELECT * fro... @##_weixin_point" />
+            <marker date="1489666324827" expanded="true" signature="13453:13512" ph="UPDATE `@##_w... " />
+            <marker date="1489666324827" expanded="true" signature="13645:13681" ph="SELECT * fro... @##_weixin_bonus_type" />
+            <marker date="1489666324827" expanded="true" signature="13715:13746" ph="SELECT * fro... @##_weixin_bonus" />
+            <marker date="1489666324827" expanded="true" signature="13951:14010" ph="UPDATE `@##_w... " />
+            <marker date="1489666324827" expanded="true" signature="14156:14197" ph="SELECT COUNT... @##_weixin_keywords" />
+            <marker date="1489666324827" expanded="true" signature="14384:14442" ph="SELECT * fro... @##_weixin_bonus_type" />
+            <marker date="1489666324827" expanded="true" signature="14631:14663" ph="SELECT COUNT... @##_cjcode" />
+            <marker date="1489666324827" expanded="true" signature="14845:14889" ph="SELECT * fro... @##_cjcode" />
+            <marker date="1489666324827" expanded="true" signature="15457:15503" ph="SELECT * FRO... @##_cjcode" />
+            <marker date="1489666324827" expanded="true" signature="15765:15810" ph="select * fro... @##_wechat_config" />
+            <marker date="1489666324827" expanded="true" signature="16220:16336" ph="UPDATE `@##_c... " />
+            <marker date="1489666324827" expanded="true" signature="16531:16643" ph="INSERT INTO `@##_cjcode`... " />
+            <marker date="1489666324827" expanded="true" signature="16848:16890" ph="SELECT * FRO... @##_cjcode" />
+            <marker date="1489666324827" expanded="true" signature="17045:17097" ph="DELETE FROM " />
+            <marker date="1489666324827" expanded="true" signature="17128:17174" ph="DELETE FROM " />
+            <marker date="1489666324827" expanded="true" signature="17383:17452" ph="SELECT COUNT... @##_cjlist" />
+            <marker date="1489666324827" expanded="true" signature="17642:17726" ph="SELECT * fro... @##_cjlist" />
+            <marker date="1489666324827" expanded="true" signature="18032:18101" ph="SELECT COUNT... @##_cjlist" />
+            <marker date="1489666324827" expanded="true" signature="18291:18375" ph="SELECT * fro... @##_cjlist" />
+            <marker date="1489666324827" expanded="true" signature="19072:19139" ph="SELECT * FRO... @##_weixin_bonus_type" />
+            <marker date="1489666324827" expanded="true" signature="19392:19612" ph="UPDATE `@##_w... " />
+            <marker date="1489666324827" expanded="true" signature="19801:20078" ph="INSERT INTO `@##_weixin_bonus_type`... " />
+            <marker date="1489666324827" expanded="true" signature="20311:20369" ph="SELECT * FRO... @##_weixin_bonus_type" />
+            <marker date="1489666324827" expanded="true" signature="20515:20581" ph="DELETE FROM " />
+            <marker date="1489666324827" expanded="true" signature="20798:20859" ph="SELECT COUNT... @##_weixin_sign" />
+            <marker date="1489666324827" expanded="true" signature="21051:21131" ph="SELECT * fro... @##_weixin_sign" />
+            <marker date="1489666324827" expanded="true" signature="21409:21453" ph="SELECT * FRO... @##_member" />
+            <marker date="1489666324827" expanded="true" signature="21514:21590" ph="SELECT COUNT... @##_weixin_sign" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/libs/template_cache.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="41" column="8" lean-forward="false" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/modules/mobile/activity.action.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="300" column="5" lean-forward="true" selection-start-line="300" selection-start-column="5" selection-end-line="300" selection-end-column="5" />
+          <folding>
+            <marker date="1490168420910" expanded="true" signature="564:623" ph="select * fro... @##_wap" />
+            <marker date="1490168420910" expanded="true" signature="689:780" ph="select * fro... @##_act_category" />
+            <marker date="1490168420910" expanded="true" signature="920:1035" ph="select * fro... @##_activity" />
+            <marker date="1490168420910" expanded="true" signature="1665:1756" ph="select * fro... @##_act_category" />
+            <marker date="1490168420910" expanded="true" signature="1829:1862" ph="select * fro... @##_activity" />
+            <marker date="1490168420910" expanded="true" signature="1965:2029" ph="select * fro... @##_act_attr" />
+            <marker date="1490168420910" expanded="true" signature="2825:2875" ph="select COUNT... " />
+            <marker date="1490168420910" expanded="true" signature="3019:3072" ph="select * fro... ##_activity" />
+            <marker date="1490168420910" expanded="true" signature="6435:6523" ph="select `act_... @##_act_filter" />
+            <marker date="1490168420910" expanded="true" signature="7125:7175" ph="select COUNT... " />
+            <marker date="1490168420910" expanded="true" signature="7306:7361" ph="select * fro... @##_activity" />
+            <marker date="1490168420910" expanded="true" signature="9536:9627" ph="select * fro... @##_act_order" />
+            <marker date="1490168420910" expanded="true" signature="10029:10078" ph="select `id` @##_map_config" />
+            <marker date="1490168420910" expanded="true" signature="10180:10242" ph="select * fro... @##_map_config" />
+            <marker date="1490168420910" expanded="true" signature="10300:10343" ph="select * fro... @##_activity" />
+            <marker date="1490168420910" expanded="true" signature="10393:10475" ph="select `o_ph... @##_act_order" />
+            <marker date="1490168420910" expanded="true" signature="10534:10608" ph="select * fro... @##_act_notice" />
+            <marker date="1490168420910" expanded="true" signature="10714:10782" ph="select * fro... @##_act_step" />
+            <marker date="1490168420910" expanded="true" signature="11027:11086" ph="select * fro... @##_item_share" />
+            <marker date="1490168420910" expanded="true" signature="11815:11860" ph="select * fro... @##_wechat_config" />
+            <marker date="1490168420910" expanded="true" signature="14067:14171" ph="select COUNT... " />
+            <marker date="1490168420910" expanded="true" signature="14345:14454" ph="select * fro... @##_act_order" />
+            <marker date="1490168420910" expanded="true" signature="14859:14993" ph="select `o_id... @##_act_order" />
+            <marker date="1490168420910" expanded="true" signature="18742:18865" ph="select * fro... @##_act_order" />
+            <marker date="1490168420910" expanded="true" signature="18930:18988" ph="select `name... @##_config" />
+            <marker date="1490168420910" expanded="true" signature="19424:19550" ph="select * fro... @##_act_order" />
+            <marker date="1490168420910" expanded="true" signature="19788:19886" ph="update `@##_a... " />
+            <marker date="1490168420910" expanded="true" signature="19972:20192" ph="insert into `@##_act_refund_log`... " />
+            <marker date="1490168420910" expanded="true" signature="20789:20912" ph="select * fro... @##_act_order" />
+            <marker date="1490168420910" expanded="true" signature="21951:22074" ph="select * fro... @##_act_order" />
+            <marker date="1490168420910" expanded="true" signature="22290:22421" ph="select `o_id... @##_act_order" />
+            <marker date="1490168420910" expanded="true" signature="23389:23487" ph="update `@##_a... " />
+            <marker date="1490168420910" expanded="true" signature="23571:23786" ph="insert into `@##_act_refund_log`... " />
+            <marker date="1490168420910" expanded="true" signature="24210:24265" ph="SELECT * FRO... @##_wxch_cfg" />
+            <marker date="1490168420910" expanded="true" signature="24315:24375" ph="SELECT * FRO... @##_wxch_cfg" />
+            <marker date="1490168420910" expanded="true" signature="26490:26533" ph="select * fro... @##_activity" />
+            <marker date="1490168420910" expanded="true" signature="26613:26668" ph="select `valu... @##_config" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

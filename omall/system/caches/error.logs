@@ -1,0 +1,13 @@
+[18-Jul-2016 14:31:44 Asia/Shanghai] PHP Notice:  Undefined offset: 1 in C:\UPUPW_AP5.5\vhosts\127.0.0.3\system\libs\sendmobile.class.php on line 373
+[18-Jul-2016 14:31:44 Asia/Shanghai] PHP Notice:  Undefined index: GetNumResult in C:\UPUPW_AP5.5\vhosts\127.0.0.3\system\libs\sendmobile.class.php on line 476
+[18-Jul-2016 14:31:44 Asia/Shanghai] PHP Notice:  Undefined index: GetNumResult in C:\UPUPW_AP5.5\vhosts\127.0.0.3\system\libs\sendmobile.class.php on line 478
+[18-Jul-2016 14:31:59 Asia/Shanghai] PHP Notice:  Undefined index: GetNumResult in C:\UPUPW_AP5.5\vhosts\127.0.0.3\system\libs\sendmobile.class.php on line 476
+[18-Jul-2016 14:31:59 Asia/Shanghai] PHP Notice:  Undefined index: GetNumResult in C:\UPUPW_AP5.5\vhosts\127.0.0.3\system\libs\sendmobile.class.php on line 478
+[18-Jul-2016 14:32:18 Asia/Shanghai] PHP Notice:  Undefined index: pay_type in C:\UPUPW_AP5.5\vhosts\127.0.0.3\system\modules\pay\pay.action.php on line 55
+[18-Jul-2016 14:32:24 Asia/Shanghai] PHP Notice:  Undefined index: pay_type in C:\UPUPW_AP5.5\vhosts\127.0.0.3\system\modules\pay\pay.action.php on line 55
+[18-Jul-2016 14:32:36 Asia/Shanghai] PHP Notice:  Undefined index: pay_type in C:\UPUPW_AP5.5\vhosts\127.0.0.3\system\modules\pay\pay.action.php on line 55
+[18-Jul-2016 14:32:57 Asia/Shanghai] PHP Warning:  include(C:\UPUPW_AP5.5\vhosts\127.0.0.3\1.php): failed to open stream: No such file or directory in C:\UPUPW_AP5.5\vhosts\127.0.0.3\system\modules\admin\tpl\user.edit.tpl.php on line 52
+[18-Jul-2016 14:32:57 Asia/Shanghai] PHP Warning:  include(C:\UPUPW_AP5.5\vhosts\127.0.0.3\1.php): failed to open stream: No such file or directory in C:\UPUPW_AP5.5\vhosts\127.0.0.3\system\modules\admin\tpl\user.edit.tpl.php on line 52
+[18-Jul-2016 14:32:57 Asia/Shanghai] PHP Warning:  include(): Failed opening 'C:\UPUPW_AP5.5\vhosts\127.0.0.3\1.php' for inclusion (include_path='.;C:\php\pear') in C:\UPUPW_AP5.5\vhosts\127.0.0.3\system\modules\admin\tpl\user.edit.tpl.php on line 52
+[18-Jul-2016 14:32:57 Asia/Shanghai] PHP Warning:  Invalid argument supplied for foreach() in C:\UPUPW_AP5.5\vhosts\127.0.0.3\system\modules\admin\tpl\user.edit.tpl.php on line 54
+[18-Jul-2016 14:33:59 Asia/Shanghai] PHP Warning:  Creating default object from empty value in C:\UPUPW_AP5.5\vhosts\127.0.0.3\system\modules\api\lib\qq\class\Recorder.class.php on line 22
